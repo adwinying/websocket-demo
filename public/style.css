@@ -1,0 +1,17 @@
+.main-content {
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.chats {
+  height: 80vh;
+  overflow-y: scroll;
+}
+
+.message {
+  display: flex;
+}
+
+.message-input  {
+  flex: 1;
+}
